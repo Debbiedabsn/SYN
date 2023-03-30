@@ -15,6 +15,8 @@ SYNLINE (Line)
 SYNTOND (Dark spaces)
 SYNLOT  (Light Tunnels)
 
+An example segment of your prompt could be "Digital Art of purple SYNSPHA with a spikey surface on a white background"
+
 You can download the model here https://drive.google.com/file/d/1RZFvorFFsLLUsdnGJNJI8Jc_sb4IDGXz/view?usp=share_link 
 
 References: 
