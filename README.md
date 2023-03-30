@@ -23,5 +23,4 @@ Clausberg, K., Bisanz, E. & Weiller, C. (2007). Ausdruck, Ausstrahlung, Aura: Sy
 
 Cytowic, R. E. & Schickert, H. (1996). Farben hören, Töne schmecken: Die bizarre Welt der Sinne (1.). dtv Verlagsgesellschaft mbH & Co. KG., S. 150)
 
-Trogemann, G. & Viehoff, J. (2004). CodeArt: Eine elementare Einführung in die Programmierung als künstlerische Praktik (Ästhetik und Naturwissenschaften / ![image](https://user-images.githubusercontent.com/125774798/228901429-edecb8d3-c98f-4275-b0ec-162b792b15d5.png)
-
+Trogemann, G. & Viehoff, J. (2004). CodeArt: Eine elementare Einführung in die Programmierung als künstlerische Praktik (Ästhetik und Naturwissenschaften 
