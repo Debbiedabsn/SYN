@@ -7,13 +7,13 @@ Our intention is not to code creativity, but to treat AI as a "tool of the imagi
 
 This model is trained on differently shaped textures, shapes and settings. Try the following captions when writing your prompt:
 
-SYNSPHA  - Sphere 
-SYNKREIS – Circle 
-SYNTRIA – Triangle 
-SYNQUAD – Square
-SYNLINE – Line
-SYNTOND – Dark spaces 
-SYNLOT  - Light Tunnels
+SYNSPHA (Sphere)
+SYNKREIS (Circle)
+SYNTRIA (Triangle) 
+SYNQUAD (Square)
+SYNLINE (Line)
+SYNTOND (Dark spaces)
+SYNLOT  (Light Tunnels)
 
 You can download the model here https://drive.google.com/file/d/1RZFvorFFsLLUsdnGJNJI8Jc_sb4IDGXz/view?usp=share_link 
 
