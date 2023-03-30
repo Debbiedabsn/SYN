@@ -5,7 +5,7 @@ In order to make the different sensory perceptions of synaesthetes readable as d
  
 Our intention is not to code creativity, but to treat AI as a "tool of the imagination" (Trogemann, Viehoff) that is not only used to solve predefined problems, but to approach problem areas and uncover questions in the process. Because in order to enter into a creative symbiosis with the machine, we must learn to speak its language. Have to find new, creative translations for our design work and practice prompt poetry instead of prompt engineering.
 
-This model is trained on differently shaped textures, shapes and settings. Try the following captions when writing your prompt:
+This model is trained on differently shaped textures, shapes and settings. Try the following CAPTIONS when writing your prompt:
 
 SYNSPHA (Sphere)
 SYNKREIS (Circle)
